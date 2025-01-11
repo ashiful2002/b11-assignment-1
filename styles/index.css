@@ -361,3 +361,27 @@ section {
 .ml-2{
   margin-left: 2rem;
 }
+
+
+.flex-and-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  
+}
+.flex-and-center img{
+width: 24px;
+height: 24px;
+  
+}
+.footer-inside-div h2 {
+  margin: 20px 0;
+}
+hr{
+  opacity: 50%;
+  width: 80%;
+  margin: 0 auto;
+}
